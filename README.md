@@ -5,15 +5,15 @@
 
 ### Built with
 
-** PHP : Server Side **
-** Bootstrap : Frontend Framework **
-** MYSQL : Database **
-** Cloud Storage : Amazon Web Service **
-** Payment Gateway : Paystack **
+* PHP : Server Side
+* Bootstrap : Frontend Framework
+* MYSQL : Database
+* Cloud Storage : Amazon Web Service
+* Payment Gateway : Paystack
 
 ## Authors
-** Aboajah Emmanuel @mannye3 **
-** Emmanuel Okeke   @12march **
+* Aboajah Emmanuel @mannye3 
+* Emmanuel Okeke   @12march
 
 ## Contributing
 
